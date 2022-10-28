@@ -1,0 +1,57 @@
+.container{
+    padding: 5px;
+    border: 1px solid #ccc  ;
+    border-radius: 20px;
+    position: absolute;
+}
+
+.button{
+    height: 80px;
+    width: 80px;
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid #000;
+    font-size: 2rem;
+}
+
+.button:hover {
+    background-color: rgb(63, 68, 13);
+}
+
+.operator {
+color: rgb(0, 0, 0);
+background-color: #e8e8e2;
+font-size: 2rem;
+height: 80px;
+width: 80px;
+}
+
+.operator:hover{
+    background-color: rgb(63, 68, 13);
+}
+.clear {
+    background-color: #fff;
+    border: 1px solid #000;
+    width: 80px;
+    height: 80px;  
+    font-size: 2rem;
+}
+.clear:hover{
+    background-color: rgb(63, 68, 13);
+}
+.equal-sign{
+    height: 330px;
+    background-color: rgb(237, 127, 8);
+}
+.equal-sign:hover{
+    background-color: rgb(63, 68, 13);
+}
+.screen{
+    height: 80px;
+    width: 320px;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 15px;
+    font-size: 3rem;
+}
